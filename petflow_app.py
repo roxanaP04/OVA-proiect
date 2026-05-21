@@ -234,8 +234,8 @@ if pagina == "🏠 Acasă":
     st.markdown('<div class="section-title">📣 Urmărește-ne pe social media</div>', unsafe_allow_html=True)
     st.markdown("""
     <div style="text-align:center;padding:20px">
-        <a href="https://www.linkedin.com/in/petflow-romania-587984410" target="_blank" class="social-btn fb">📘 LinkedIn — PetFlow România</a>
-        <a href="https://www.instagram.com/_pet_flow_/" target="_blank" class="social-btn ig">📸 Instagram — @petcare.ro</a>
+        <a href="https://www.linkedin.com/in/petflow-romania-587984410" target="_blank" class="social-btn fb">📘 LinkedIn </a>
+        <a href="https://www.instagram.com/_pet_flow_/" target="_blank" class="social-btn ig">📸 Instagram </a>
     </div>
     """, unsafe_allow_html=True)
 
