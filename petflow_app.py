@@ -180,7 +180,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Urmărește-ne:**")
     st.markdown("""
-    <a href="https://www.linkedin.com/in/petflow-romania-587984410" target="_blank" class="social-btn fb">📘 LinkedIn</a><br><br>
+    <a href="https://www.linkedin.com/company/122573980/admin/page-posts/published/" target="_blank" class="social-btn fb">📘 LinkedIn</a><br><br>
     <a href="https://www.instagram.com/_pet_flow_/" target="_blank" class="social-btn ig">📸 Instagram</a>
     """, unsafe_allow_html=True)
 
@@ -234,7 +234,7 @@ if pagina == "🏠 Acasă":
     st.markdown('<div class="section-title">📣 Urmărește-ne pe social media</div>', unsafe_allow_html=True)
     st.markdown("""
     <div style="text-align:center;padding:20px">
-        <a href="https://www.linkedin.com/in/petflow-romania-587984410" target="_blank" class="social-btn fb">📘 LinkedIn </a>
+        <a href="https://www.linkedin.com/company/122573980/admin/page-posts/published/" target="_blank" class="social-btn fb">📘 LinkedIn </a>
         <a href="https://www.instagram.com/_pet_flow_/" target="_blank" class="social-btn ig">📸 Instagram </a>
     </div>
     """, unsafe_allow_html=True)
@@ -601,7 +601,7 @@ elif pagina == "📞 Contact":
         </div>
         <div class="card">
             <h3>📣 Rețele Sociale</h3>
-            <a href="www.linkedin.com/in/petflow-romania-587984410" target="_blank" class="social-btn fb">📘 LinkedIn</a>
+            <a href="https://www.linkedin.com/company/122573980/admin/page-posts/published/" target="_blank" class="social-btn fb">📘 LinkedIn</a>
             <a href="https://www.instagram.com/_pet_flow_/" target="_blank" class="social-btn ig">📸 Instagram</a>
         </div>
         """, unsafe_allow_html=True)
@@ -633,7 +633,7 @@ st.markdown("""
 <div class="footer">
     <h3 style="color:white;margin:0">🐾 PetFlow România</h3>
     <p style="opacity:0.8">Îngrijire profesională pentru animalele tale de companie</p>
-    <a href="https://www.linkedin.com/in/petflow-romania-587984410" target="_blank" class="social-btn fb">📘 LinkedIn</a>
+    <a href="https://www.linkedin.com/company/122573980/admin/page-posts/published/" target="_blank" class="social-btn fb">📘 LinkedIn</a>
     <a href="https://www.instagram.com/_pet_flow_/" target="_blank" class="social-btn ig">📸 Instagram</a>
     <p style="opacity:0.5;font-size:0.8rem;margin-top:16px">© 2026 PetFlow România. Toate drepturile rezervate.</p>
 </div>
